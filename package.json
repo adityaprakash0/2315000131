@@ -1,4 +1,12 @@
 {
+  "name": "2315000131",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Campus Notifications Microservice",
+  "main": "notification_app_fe/index.js",
+  "scripts": {
+    "stage1": "node notification_app_fe/index.js"
+  },
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
